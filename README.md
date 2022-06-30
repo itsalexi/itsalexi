@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsalexi?tab=repositories](https://github.com/itsalexi?tab=repositories)
 
-- 📝 I regularly write articles on [https://alexi.life](https://alexi.life)
+- 📝 My personal website is at (WIP) [https://alexi.life](https://alexi.life)
 
 - 💬 Reach me on Discord! **itsAlexi#5450**
 
