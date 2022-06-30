@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, NodeJS, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsalexi?tab=repositories](https://github.com/itsalexi?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/itsalexi?tab=repositories)
 
 - 📝 My personal website is at (WIP) [https://alexi.life](https://alexi.life)
 
