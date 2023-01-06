@@ -15,7 +15,7 @@
 
 - 💬 Reach me on Discord! **itsAlexi#5450**
 
-- ⚡ Fun fact **I'm 15 turning 16 this year!**
+- ⚡ Fun fact **I'm 16 years old!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
