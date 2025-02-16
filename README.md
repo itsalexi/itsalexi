@@ -15,8 +15,6 @@
 
 - 💬 Reach me on Discord! **itsAlexi#5450**
 
-- ⚡ Fun fact **I'm 16 years old!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsalexitw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsalexitw" height="30" width="40" /></a>
