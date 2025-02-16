@@ -13,7 +13,7 @@
 
 - 📝 My personal website is at [https://alexi.life](https://alexi.life)
 
-- 💬 Reach me on Discord! **itsAlexi#5450**
+- 💬 Reach me on Discord! **@heyitsalexi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
