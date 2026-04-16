@@ -6,51 +6,76 @@ https://alexi.life · github.com/itsalexi
 
 ---
 
+<br>
+
 ## **traction**
 
 **9.6k+ users · 131k+ interactions** — qpi calculator
-**#2 on google** — “qpi calculator”
+**#2 google** — “qpi calculator”
 **10k+ visits** — enlistment helper
-used across student orgs + communities
+used across student orgs + ateneo communities
 
 ---
+
+<br>
 
 ## **products**
 
-**qpi calculator** — grade planning tool
+**qpi calculator**
+grade planning tool
 **9.6k+ users · 131k+ interactions**
-repo: github.com/itsalexi/REPLACE · live: https://qpi.alexi.life
+
+repo: github.com/itsalexi/REPLACE
+live: https://qpi.alexi.life
+
+---
 
 <br>
 
-**enlistment helper** — course scheduling tool
-**3k+ visits during enlistment cycles**
-repo: github.com/itsalexi/REPLACE · live: https://schedule.alexi.life
+**enlistment helper**
+course scheduling tool
+**10k+ visits during enlistment cycles**
+
+repo: github.com/itsalexi/REPLACE
+live: https://schedule.alexi.life
+
+---
 
 <br>
 
-**one big match** — event matchmaking platform
-**led product · backend**
+**one big match**
+event matchmaking platform
+**led product · backend ownership**
+
 live: https://onebigmatch.com
 
+---
+
 <br>
 
-**misa reg system** — org ops platform
+**misa reg system**
+org operations platform
 **500+ users in production**
 
 ---
+
+<br>
 
 ## **experience**
 
 **nextpay (yc w21)** — swe intern
 shipped marketing pages end-to-end · building customer dashboard
 
+---
+
 <br>
 
 **sip & scale** — head of product & eng
-own product + engineering · global gen z community infrastructure
+own product + engineering · scaling global gen z community infrastructure
 
 ---
+
+<br>
 
 ## **wins**
 
@@ -59,11 +84,15 @@ own product + engineering · global gen z community infrastructure
 
 ---
 
+<br>
+
 ## **focus**
 
-**ai workflows** · **distribution systems** · **shipping fast**
+**ai workflows** · **distribution systems** · **high-velocity shipping**
 
 ---
+
+<br>
 
 ## **stack**
 
