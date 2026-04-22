@@ -25,7 +25,6 @@ used across student orgs + ateneo communities
 grade planning tool
 **9.6k+ users · 131k+ interactions**
 
-repo: github.com/itsalexi/REPLACE
 live: https://qpi.alexi.life
 
 ---
@@ -36,7 +35,6 @@ live: https://qpi.alexi.life
 course scheduling tool
 **10k+ visits during enlistment cycles**
 
-repo: github.com/itsalexi/REPLACE
 live: https://schedule.alexi.life
 
 ---
