@@ -82,12 +82,12 @@ receipt lines, shared dishes, fees, friend links, and paid status in one place.
 ### github snapshot
 
 <p align="center">
-  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="github profile summary" />
+  <img src="./profile-summary-card-output/transparent/0-profile-details.svg?v=20260511" alt="github profile summary" />
 </p>
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/transparent/3-stats.svg" alt="github stats" />
-  <img width="49%" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="top repo languages" />
+  <img width="49%" src="./profile-summary-card-output/transparent/3-stats.svg?v=20260511" alt="github stats" />
+  <img width="49%" src="./profile-summary-card-output/transparent/1-repos-per-language.svg?v=20260511" alt="top repo languages" />
 </p>
 
 ---
