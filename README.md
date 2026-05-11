@@ -1,97 +1,99 @@
-# alexi canamo
+<p align="center">
+  <img src="https://github.com/itsalexi.png" width="88" alt="alexi canamo" />
+</p>
 
-**swe @ nextpay (yc w21)** · **head of product & eng @ sip & scale** · cs @ ateneo
+<h1 align="center">alexi canamo</h1>
 
-https://alexi.life · github.com/itsalexi
+<p align="center">
+  <b>building useful tools fast.</b><br />
+  currently building <a href="https://hati.me"><b>hati</b></a> · cs @ ateneo · dost merit scholar · swe @ nextpay <b>(yc w21)</b>
+</p>
 
----
-
-<br>
-
-## **traction**
-
-**9.6k+ users · 131k+ interactions** — qpi calculator
-**#2 google** — “qpi calculator”
-**10k+ visits** — enlistment helper
-used across student orgs + ateneo communities
-
----
-
-<br>
-
-## **products**
-
-**qpi calculator**
-grade planning tool
-**9.6k+ users · 131k+ interactions**
-
-live: https://qpi.alexi.life
+<p align="center">
+  <a href="https://alexi.life">
+    <img src="https://img.shields.io/badge/alexi.life-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="website" />
+  </a>
+  <a href="https://hati.me">
+    <img src="https://img.shields.io/badge/building-hati-2F81F7?style=for-the-badge&logo=apple&logoColor=white" alt="hati" />
+  </a>
+  <a href="https://github.com/itsalexi">
+    <img src="https://img.shields.io/badge/github-itsalexi-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
 
 ---
 
-<br>
+### now
 
-**enlistment helper**
-course scheduling tool
-**10k+ visits during enlistment cycles**
-
-live: https://schedule.alexi.life
+**[hati](https://hati.me)** — split dinner without the group chat math.  
+receipt lines, shared dishes, fees, friend links, and paid status in one place.
 
 ---
 
-<br>
+### proof of work
 
-**one big match**
-event matchmaking platform
-**led product · backend ownership**
-
-live: https://onebigmatch.com
+`live ios app` · `9.6k+ users` · `131k+ interactions` · `550-member org system` · `top 5 / 200+ hackathon`
 
 ---
 
-<br>
+### selected work
 
-**misa reg system**
-org operations platform
-**500+ users in production**
+| project | what it is | signal |
+| --- | --- | --- |
+| **[hati](https://hati.me)** | iPhone app for KKB bills, shared dishes, receipt lines, and paid tracking | current build · product/eng |
+| **[qpi calculator](https://qpi.alexi.life)** | grade planning + qpi forecasting for Ateneo students | 9.6k+ users · 131k+ interactions |
+| **[misa reg system](https://alexi.life/projects/misa-registration-system)** | check-ins, attendance, and voting eligibility for org operations | lead dev · 550-member org · 5 major events |
+| **[enlistment helper](https://schedule.alexi.life)** | course search + visual schedule builder for enlistment | automated scraper · student-used tool |
 
----
+<details>
+<summary>also shipped</summary>
 
-<br>
+- **one big match** — event matchmaking / icebreaker platform; product + backend ownership
+- **salbar** — top 5 / 200+ at the naga mayoral hackathon
+- **hakot** — 1st runner-up at ship or be shipped
 
-## **experience**
-
-**nextpay (yc w21)** — swe intern
-shipped marketing pages end-to-end · building customer dashboard
-
----
-
-<br>
-
-**sip & scale** — head of product & eng
-own product + engineering · scaling global gen z community infrastructure
+</details>
 
 ---
 
-<br>
+### work
 
-## **wins**
-
-**top 5 / 200+** — naga mayoral hackathon
-**1st runner up** — ship or be shipped hackathon
-
----
-
-<br>
-
-## **focus**
-
-**ai workflows** · **distribution systems** · **high-velocity shipping**
+| where | role |
+| --- | --- |
+| **nextpay (yc w21)** | software engineering intern — react, next.js, typescript, customer-facing systems |
+| **sip & scale** | product + engineering — digital infrastructure for a global gen z founder/community platform |
 
 ---
 
-<br>
+### operating system
 
-## **stack**
+`code for others` · `ship fast` · `make the annoying thing easier` · `distribution > perfection`
 
-typescript · react · next.js · node.js · postgresql · firebase · vercel
+---
+
+### stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,postgres,firebase,tailwind,vercel,cloudflare,docker,git&perline=12" alt="typescript, react, next.js, node.js, python, postgresql, firebase, tailwind, vercel, cloudflare, docker, git" />
+</p>
+
+---
+
+### github snapshot
+
+<p align="center">
+  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="github profile summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/transparent/3-stats.svg" alt="github stats" />
+  <img width="49%" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="top repo languages" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://alexi.life">website</a> ·
+  <a href="https://hati.me">hati</a> ·
+  <a href="https://github.com/itsalexi">github</a>
+</p>
